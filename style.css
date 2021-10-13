@@ -36,6 +36,18 @@ a {
     color: #ffffff;
 }
 
+h5{
+    color: yellow;
+}
+
+h6{
+    color:blue;
+}
+
+h4{
+    color: coral;
+}
+
 #bailey-video{
     height: 345px;
     width: 420px;
