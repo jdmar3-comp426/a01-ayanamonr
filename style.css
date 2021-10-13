@@ -5,6 +5,13 @@ body {
     font-size: 14px;
   }
   
+p{
+    margin: 25px;
+    background-color: #ffffff;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
   /* Applies to all <h1>...</h1> elements. */
   h1 {
     font-size: 35px;
@@ -28,3 +35,4 @@ a {
     background-color: #ff0000;
     color: #ffffff;
 }
+
