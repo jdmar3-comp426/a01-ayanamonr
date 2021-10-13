@@ -40,3 +40,10 @@ a {
     height: 345 px;
     width: 420 px;
 }
+
+.home-button{
+    border-style: solid;
+    border-color: #000000;
+    background-color: #000000;
+    color: #ff0000;
+}
