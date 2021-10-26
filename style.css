@@ -12,7 +12,7 @@ p{
     font-size: 14px;
 }
 
-p ~ ul {
+div ~ ul {
     color: #404040;
 }
 
