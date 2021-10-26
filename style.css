@@ -12,6 +12,10 @@ p{
     font-size: 14px;
 }
 
+div > p {
+    color: #404040;
+}
+
   /* Applies to all <h1>...</h1> elements. */
   h1 {
     font-size: 35px;
