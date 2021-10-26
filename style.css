@@ -12,7 +12,7 @@ p{
     font-size: 14px;
 }
 
-div ~ ul {
+ul > li {
     color: #404040;
 }
 
@@ -33,7 +33,7 @@ div ~ ul {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-a {
+a{
     border-style: solid;
     border-color: #ff0000;
     background-color: #ff1000;
